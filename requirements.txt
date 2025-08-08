@@ -1,0 +1,6 @@
+Flask>=2.0.0
+Pillow>=8.0.0
+piexif>=1.1.3
+folium>=0.12.0
+pyheif>=0.6.1
+ffmpeg-python>=0.2.0
